@@ -1,0 +1,7 @@
+{
+  "name": "LabDigitizer",
+  "description": "A powerful utility for engineering students to instantly convert handwritten lab tables into digital CSV, Excel, and Python-ready data using Gemini OCR.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
